@@ -3,3 +3,4 @@
 	My hobbies include programming, sports, and bike riding.
 
 - Programming Background
+	Two years professional experience with C.
