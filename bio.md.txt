@@ -4,3 +4,4 @@
 
 - Programming Background
 	Two years professional experience with C.
+	Two years professional experience with C++.
