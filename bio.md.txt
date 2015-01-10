@@ -1,6 +1,7 @@
 -Introduction
 	Hello my name is Adam Martinez.  I am an engineer currently working in Oklahoma.  I currently working towards a computer science degree to further my career. 
-	My hobbies include programming, sports, and bike riding.  I am from Texas and moved to Oklahoma 2 years ago.
+	My hobbies include programming, sports, and bike riding.  I am from Texas and moved to Oklahoma 2 years ago.  Living in Oklahoma is a new experience for me
+	and I am enjoying it.
 
 - Programming Background
 	Two years professional experience with C.
